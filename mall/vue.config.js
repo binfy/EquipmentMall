@@ -1,5 +1,5 @@
 module.exports = {
-  baseUrl: '/mall/dist/',
+  publicPath: '/mall/dist/',
   outputDir: 'dist',
     pages: {
         index: {
