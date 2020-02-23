@@ -1,5 +1,5 @@
 module.exports = {
-  baseUrl: '/Reader/dist/',
+  baseUrl: '/mall/dist/',
   outputDir: 'dist',
     pages: {
         index: {
